@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  conditions="Basic Tags.Operations Client"
+  MasterStylesheetOverride="true"
+  MasterToc="/Project/TOCs/HTML5/Ops Only.fltoc"
+  ConditionTagExpression="include[&quot;Basic Tags.Operations Client&quot;]"
+  GetLatestBeforeCompile="false"
+  Skin="/Project/Skins/HTML5 - Template Side Nav.flskn"
+  MobileBreakpoint="776"
+  TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
+  DefaultUrl="/Content/SITA IDS Operations Client Home - Template.htm"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+</CatapultTarget>

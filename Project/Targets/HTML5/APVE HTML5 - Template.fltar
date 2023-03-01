@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/HTML5 - Template Side Nav.flskn"
+  DefaultUrl="/Content/SITA IDS Operations Client Home - Template.htm"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ConditionTagExpression="include[&quot;Basic Tags.Admin Client&quot;], exclude[&quot;Basic Tags - Template.PDF Only&quot; or &quot;Basic Tags.Operations Client&quot;]"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="true"
+  MasterToc="/Project/TOCs/HTML5/HTML5 - Template.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Variables>
+    <Variable
+      Name="Variables - Template/Product">SITA Product</Variable>
+    <Variable
+      Name="Variables - Template/Document Type">Document Type</Variable>
+  </Variables>
+  <Destinations>
+    <Destination
+      Link="/Destinations/Central.fldes"
+      Publish="true"
+      IsResource="true" />
+  </Destinations>
+</CatapultTarget>

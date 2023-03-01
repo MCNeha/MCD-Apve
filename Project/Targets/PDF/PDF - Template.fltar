@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  PatchHeadingLevels="false"
+  DisableAutoSync="true"
+  Medium="PDF"
+  ResolveCssVariables="false"
+  MasterToc="/Project/TOCs/PDF/PDF - Template.fltoc"
+  ConditionTagExpression=""
+  GlossaryTermConversion="marked">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    OutputFormat="doc" />
+  <Variables>
+    <Variable
+      Name="Variables - Template/Document Type">Document Type</Variable>
+    <Variable
+      Name="Variables - Template/Organization">Tech Writing</Variable>
+    <Variable
+      Name="Variables - Template/Original Year">2020</Variable>
+    <Variable
+      Name="Variables - Template/Product">SITA Product</Variable>
+  </Variables>
+  <PDF
+    ShowUsedBookmarks="false"
+    TitleBar="FileName" />
+  <DocumentProperties
+    Title="[%=Variables - Template.Product%] - [%=Variables - Template.Document Type%] [%=System.ShortDate%]" />
+  <Destinations>
+    <Destination
+      Link="/Destinations/Central.fldes"
+      Publish="true"
+      IsResource="true" />
+  </Destinations>
+</CatapultTarget>

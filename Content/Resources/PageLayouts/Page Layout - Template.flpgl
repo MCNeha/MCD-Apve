@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Left" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="left" PaddingLeft="1.00in" PaddingRight="1.50in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="-0.5625in" Bottom="0.02083333in" Width="630px" Height="862px">
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="-0.625in" Bottom="-0.7604167in" X="-0.08333334in" Y="8.979167in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.78125in" TextAlign="center" VerticalAlign="middle" Width="644px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../../../../../Resources/TableStyles/Header&amp;Footer.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../../PDF Topics - Template/Product-X - Print Demo/Document Type/L - page.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="header" Anchors="Left,Right,Top" Right="-0.5625in" Bottom="9.177083in" X="0.01041667in" Y="-0.6770833in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="0.5in" VerticalAlign="bottom" TextAlign="left" Width="629px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml" xhtml:style="line-height: normal;">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="TableStyles/Header&amp;Footer.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;mc-table-style: url('TableStyles/Header&amp;Footer.css');" xhtml:class="TableStyle-Header_&amp;_Footer" xhtml:cellspacing="0">
+                            <xhtml:col xhtml:style="width: 1033px;font-size: 11pt;" xhtml:class="TableStyle-Header_&amp;_Footer-Column-Column1" />
+                            <xhtml:col xhtml:style="width: 391px;font-size: 11pt;" xhtml:class="TableStyle-Header_&amp;_Footer-Column-Column1" />
+                            <xhtml:tbody>
+                                <xhtml:tr xhtml:class="TableStyle-Header_&amp;_Footer-Body-Body1">
+                                    <xhtml:td xhtml:class="TableStyle-Header_&amp;_Footer-BodyB-Column1-Body1" xhtml:style="padding-top: 17px;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;"><MadCap:variable xhtml:name="Heading.Level1" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="font-size: 10pt;text-align: right;" xhtml:class="TableStyle-Header_&amp;_Footer-BodyA-Column1-Body1">
+                                        <xhtml:img xhtml:src="../Images/Assets/Logos/SITAlogo.png" xhtml:style="width: 123px;height: 39px;font-size: 11pt;" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1in" PaddingRight="1.5in" PaddingTop="1in" PaddingBottom="1in">
+    </Page>
+    <Page Name="Right" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="right" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.5in" Y="0in" Right="-0.05208333in" Bottom="-0.2395833in" Width="629px" Height="887px">
+        </Frame>
+        <Frame Flow="header" Anchors="Left,Right,Top" Right="-0.05208333in" Bottom="9.145833in" X="-0.5in" Y="-0.6458333in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="0.5in" VerticalAlign="bottom" TextAlign="left" Width="629px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml" xhtml:style="line-height: normal;">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="TableStyles/Header&amp;Footer.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;mc-table-style: url('TableStyles/Header&amp;Footer.css');" xhtml:class="TableStyle-Header_&amp;_Footer" xhtml:cellspacing="0">
+                            <xhtml:col xhtml:style="font-size: 10pt;width: 639px;" xhtml:class="TableStyle-Header_&amp;_Footer-Column-Column1" />
+                            <xhtml:col xhtml:style="font-size: 10pt;width: 785px;" xhtml:class="TableStyle-Header_&amp;_Footer-Column-Column1" />
+                            <xhtml:tbody>
+                                <xhtml:tr xhtml:class="TableStyle-Header_&amp;_Footer-Body-Body1">
+                                    <xhtml:td xhtml:class="TableStyle-Header_&amp;_Footer-BodyB-Column1-Body1" xhtml:style="padding-top: 17px;border-right-style: solid;border-right-width: 0px;border-right-color: #000000;">
+                                        <xhtml:img xhtml:src="../Images/Assets/Logos/SITAlogo.png" xhtml:style="width: 123px;height: 39px;" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="font-size: 10pt;text-align: right;padding-top: 9px;" xhtml:class="TableStyle-Header_&amp;_Footer-BodyA-Column1-Body1">
+                                        <xhtml:p><MadCap:variable xhtml:name="Heading.Level1" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="-0.07291666in" Bottom="-1.020833in" X="-0.5625in" Y="9.302083in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.71875in" TextAlign="center" VerticalAlign="middle" Width="637px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../../../../../Resources/TableStyles/Header&amp;Footer.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../../PDF Topics - Template/Product-X - Print Demo/Document Type/R - page.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="First" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="576px" Height="864px">
+        </Frame>
+        <Frame Flow="header" Anchors="Left,Right,Top" Right="0in" Bottom="9.25in" X="0in" Y="-0.75in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="0.5in" VerticalAlign="bottom" TextAlign="left" Width="576px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="margin-right: 0px;margin-left: 0px;">&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="0in" Bottom="-0.75in" X="0in" Y="9.25in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" TextAlign="center" VerticalAlign="middle" Width="576px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>&#160;</xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame X="-148px" Y="-125px" Width="526px" Height="245px" Flow="decoration0" Right="198px" Bottom="744px" BackgroundImage="Images/PDF Target/BigBubbles.jpg" BackgroundRepeat="stretch">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/PDF Target/BigBubbles.jpg" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-147px" Y="275px" Width="817px" Height="680px" Flow="decoration1" Right="-94px" Bottom="-91px" BackgroundImage="Images/PDF Target/PageOverlay.jpg" BackgroundRepeat="stretch">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/PDF Target/CoverOverlay.jpg" xhtml:style="width: 951px;height: 847px;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="header" Anchors="Left,Right,Top" Right="-0.6145833in" Bottom="7.854167in" X="0.6145833in" Y="0.6458333in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="0.5in" TextAlign="right" VerticalAlign="bottom" Width="576px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.5520833in" Y="2.09375in" Right="-0.05208333in" Bottom="6.1875in" Width="634px" Height="69px" FlowIndex="0">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="-0.25in" Bottom="-0.6770833in" X="-0.2604167in" Y="8.5in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.177083in" VerticalAlign="middle" TextAlign="center" Width="625px" BackgroundType="Solid">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <MadCap:snippetBlock xhtml:src="../../PDF Topics - Template/Product-X - Print Demo/Document Type/Cover - Copyright.flsnp" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.5416667in" Y="3.375in" Right="-0.0625in" Bottom="4.9375in" Width="634px" Height="66px" FlowIndex="1">
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.5416667in" Y="4.145833in" Right="-0.7604167in" Bottom="2.854167in" Width="701px" Height="192px" FlowIndex="3">
+        </Frame>
+    </Page>
+</PageStyles>

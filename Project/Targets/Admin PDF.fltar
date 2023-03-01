@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="APVe Admin User Online Help"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/HTML5/SideNav.fltoc"
+  MasterPageLayout="/Content/Print.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  DisableAutoSync="true"
+  PatchHeadingLevels="true"
+  MasterStylesheetOverride="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <DocumentProperties
+    Title="APVe Admin User Online Help" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    PageLayout="SinglePage"
+    TitleBar="FileName"
+    PageMode="UseNone" />
+</CatapultTarget>

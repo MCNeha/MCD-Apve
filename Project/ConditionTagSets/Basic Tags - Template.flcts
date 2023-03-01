@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="PDF Only"
+    Comment="This is content only visible in PDF output and not HTML 5 Output" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="HTML5 Only"
+    Comment="This is content only visible in HTML5 output and not PDF Output"
+    OriginalName="Web Only" />
+</CatapultConditionTagSet>

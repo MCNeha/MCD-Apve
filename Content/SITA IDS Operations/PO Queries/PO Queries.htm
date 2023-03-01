@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Basic Tags.Operations Client">
+    <head>
+        <link href="../../../Resources/TableStyles/Main-Table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>PO Queries for Gate Operations</h1>
+        <p><span style="color: #b22222;">Query to the PO  </span>
+        </p>
+        <ul>
+            <li>
+                <p>Fligths and toast message</p>
+                <ul>
+                    <li>
+                        <p>Gate Location settings (options) does this still exist?</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <p><span style="color: #b22222;">What Terminology should we use Gate Status or Flight status?</span>
+                </p>
+            </li>
+        </ul>
+        <p>It is the status of the flight on the gate (i.e a flight is cancelled not a gate).</p>
+        <p>Update Gate Status<br /><br /></p>
+        <h3 style="color: #b22222;">Query PO&#160;re: the following </h3>
+        <p style="color: #b22222;">Is this relevant or not?</p>
+        <p>Stages of Boarding a Flight</p>
+        <p>The table below details the color background and outline association with each stage of boarding a flight is in. </p>
+        <table style="width: 100%;mc-table-style: url('../../../Resources/TableStyles/Main-Table.css');margin-left: 0;margin-right: auto;" class="TableStyle-Main-Table" cellspacing="0">
+            <col class="TableStyle-Main-Table-Column-Column1" />
+            <col class="TableStyle-Main-Table-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-Main-Table-Head-Header1">
+                    <th class="TableStyle-Main-Table-HeadE-Column1-Header1">Operational Flight Status</th>
+                    <th class="TableStyle-Main-Table-HeadD-Column1-Header1" style="text-align: left;"> Flight Information Color is</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Main-Table-Body-Body1">
+                    <td class="TableStyle-Main-Table-BodyE-Column1-Body1">Ready for boarding</td>
+                    <td class="TableStyle-Main-Table-BodyD-Column1-Body1">
+                        <li>The flight is highlighted with a blue border and a blue background banner.</li>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Main-Table-Body-Body1">
+                    <td class="TableStyle-Main-Table-BodyE-Column1-Body1">Boarding sequence step has started </td>
+                    <td class="TableStyle-Main-Table-BodyD-Column1-Body1">
+                        <li>The flight information is highlighted in a green border and a green background banner.</li>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Main-Table-Body-Body1">
+                    <td class="TableStyle-Main-Table-BodyE-Column1-Body1">If a flight is delayed</td>
+                    <td class="TableStyle-Main-Table-BodyD-Column1-Body1">The new scheduled time displays underneath the original scheduled time in red.</td>
+                </tr>
+                <tr class="TableStyle-Main-Table-Body-Body1">
+                    <td class="TableStyle-Main-Table-BodyB-Column1-Body1">The currently gate status message </td>
+                    <td class="TableStyle-Main-Table-BodyA-Column1-Body1">
+                        <p>Displays at the top of the boarding sequence section in a blue background when boarding has been started. This same message also displays on FIDs screen at the gate. </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><a name="Update_gate_status"></a>Update Gate Status</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p style="color: #b22222;">Query to the PO</p>
+                <p style="color: #b22222;">Can we Delete all this? -it's about a Flight status- it's not a Gate status</p>
+                <p style="color: #b22222;">&#160;</p>
+                <p style="color: #b22222;">Is it a flight status on the gate</p>
+                <ol>
+                    <li>Click the gate number or the <img src="../../../Resources/Images/DownArrow.png" /> icon next to it.</li>
+                    <li>Choose a departure gate number from the list.<ul><li>The selected gate displays in the field with local current time and date.</li></ul></li>
+                    <li>Click the current status or the downward facing arrow beside it.</li>
+                    <li>Select one of the following options:<ol style="list-style-type: lower-alpha;"><li><b>CANCELED</b></li><li><b>ON TIME</b></li><li><b>DELAYED</b></li><li><b>SEE AGENT AS SOON AS POSSIBLE</b></li><li><b>GATE OPEN</b></li><li><b>GO TO GATE</b></li><li><b>NOW BOARDING</b></li><li><b>LAST CALL</b></li><li><b>FLIGHT CLOSED</b></li><li><b>DEPARTED</b></li><li><b>GATE CLOSED</b></li><li><b>OT</b></li><li><b>AWAIT GATE</b></li><li><b>BUS TRANSFER</b></li></ol></li>
+                </ol>
+                <p><b>Note</b>: <MadCap:annotation MadCap:createDate="2020-01-31T11:43:36.9330120+00:00" MadCap:creator="Ming.Yang" MadCap:initials="MI" MadCap:comment="Will check this with Andrea." MadCap:editor="Ming.Yang" MadCap:editDate="2020-01-31T11:43:53.2448762+00:00">When a boarding sequence is assigned to a gate, the gate status option is disabled</MadCap:annotation>.</p>
+                <p><b>Note</b>: If there is next operational flight available, the suggestion is then displayed on the bottom of the boarding sequence screen with <b>DISPLAY NEXT FLIGHT</b> button enabled. Otherwise <b>No flight displaying</b> message is displayed on the screen.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p style="color: #b22222;">MC- Add below to the above table</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><a href="Cycle through or Replay a Boarding Sequence Step.htm">Cycle through or replay a boarding sequence<br /></a>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <p>(Click the gate number or the <img src="../../../Resources/Images/DownArrow.png" /> icon next to it.</p>
+                    </li>
+                </ol>
+                <ol>
+                    <li>Choose a departure gate number from the list.<ul><li>All departure flights assigned to the selected gate display under the selected departure gate number.</li></ul></li>
+                    <li>Select a flight.<ul><li>The boarding sequence displays to the right.</li></ul></li>
+                    <li>Click <b>Next</b> on a boarding sequence step to cycle through the step.</li>
+                    <li>Click <b>Replay</b> to restart a boarding sequence step.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <h2 style="color: #000000;">
+            <MadCap:annotation MadCap:comment="Functionality is not completed." MadCap:createDate="2020-01-24T12:05:53.3133340+00:00" MadCap:creator="Ming.Yang" MadCap:editDate="2020-01-24T12:06:02.1048634+00:00" MadCap:editor="Ming.Yang" MadCap:initials="MI">Gate Announcements </MadCap:annotation>
+        </h2>
+        <p style="color: #b22222;">Query to the PO</p>
+        <p style="color: #b22222;">Is the following still relevant?</p>
+        <p>Any announcements that are associated with the selected gate location display in the Gate Announcements section.</p>
+        <p>You can configure and preview how the gate announcements display. You can also add, edit and remove any announcement that is displayed.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Field Descriptions</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul>
+                    <li>
+                        <p><b>CONFIGURE</b>
+                        </p>
+                    </li>
+                    <li>
+                        <p><b>PREVIEW</b>
+                        </p>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

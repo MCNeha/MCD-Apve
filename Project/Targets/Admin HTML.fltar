@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Ordinary User Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[&quot;Basic Tags.Admin Client&quot; or &quot;Feature Type.New Feature&quot; or &quot;Feature Type.Omit&quot; or &quot;User Types.Admin&quot; or &quot;User Types.Ordinary User&quot;]"
+  EquationsOutputType="PNG"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ExcludeUnreferencedContent="true"
+  TopNavTocPath="true"
+  ReplaceSpacesWithUnderscores="true"
+  DefaultUrl="/Content/SITA IDS Operations Client Home - Template.htm"
+  MasterStylesheetOverride="true"
+  TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
+  BrowseSequence="/Project/Advanced/Browse Sequences/BrowseSequence.flbrs"
+  MasterToc="/Project/TOCs/HTML5/HTML5 - Template.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  ResolveCssVariables="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Publish="true" />
+  </Destinations>
+</CatapultTarget>

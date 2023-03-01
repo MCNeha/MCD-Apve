@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Product"
+    EvaluatedDefinition="SITA Bag Manager V7">SITA Bag Manager V7</Variable>
+  <Variable
+    Name="Document Type"
+    Comment=""
+    EvaluatedDefinition="User Guide">User Guide</Variable>
+  <Variable
+    Name="Control Level"
+    Comment=""
+    EvaluatedDefinition="SITA Confidential">SITA Confidential</Variable>
+  <Variable
+    Name="Control Level"
+    Comment=""
+    EvaluatedDefinition="SITA Customer">SITA Customer</Variable>
+  <Variable
+    Name="Organization"
+    Comment=""
+    EvaluatedDefinition="Tech Writing">Tech Writing</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Bag Manager">SITA Bag Manager</Variable>
+  <Variable
+    Name="Current Date"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2021-03-17T10:42:58.6077060+01:00"
+    EvaluatedDefinition="dd MMMM yyyy">dd MMMM yyyy</Variable>
+  <Variable
+    Name="Current Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2021-03-17T10:42:18.4453431+01:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v0.1">v0.1</Variable>
+  <Variable
+    Name="Original Year"
+    Comment=""
+    EvaluatedDefinition="2022">2022</Variable>
+  <Variable
+    Name="Original Year"
+    Comment=""
+    EvaluatedDefinition="2021">2021</Variable>
+  <Variable
+    Name="Original Year"
+    Comment=""
+    EvaluatedDefinition="2020">2020</Variable>
+  <Variable
+    Name="Original Year"
+    Comment=""
+    EvaluatedDefinition="2019">2019</Variable>
+  <Variable
+    Name="Original Year"
+    Comment=""
+    EvaluatedDefinition="2018">2018</Variable>
+  <Variable
+    Name="Original Year"
+    Comment=""
+    EvaluatedDefinition="2017">2017</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA WorldTracer">SITA WorldTracer</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA WorldTracer Tablet">SITA WorldTracer Tablet</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.0">v2.0</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.0">v3.0</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.0">v4.0</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v5.0">v5.0</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v6.0">v6.0</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v7.0">v7.0</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v8.0">v8.0</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v9.0">v9.0</Variable>
+  <Variable
+    Name="Document Type"
+    Comment=""
+    EvaluatedDefinition="Installation Guide">Installation Guide</Variable>
+  <Variable
+    Name="Document Type"
+    Comment=""
+    EvaluatedDefinition="Maintenance Guide">Maintenance Guide</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.0">v1.0</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Smart Path">SITA Smart Path</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Smart Path Bag Drop">SITA Smart Path Bag Drop</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Airport Management">SITA Airport Management</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Product">SITA Product</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Flex">SITA Flex</Variable>
+  <Variable
+    Name="Document Type"
+    Comment=""
+    EvaluatedDefinition="Developer Guide">Developer Guide</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.1">v1.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.2">v1.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.3">v1.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.4">v1.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.5">v1.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.6">v1.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.7">v1.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.8">v1.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v1.9">v1.9</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.1">v2.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.2">v2.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.3">v2.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.4">v2.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.5">v2.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.6">v2.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.7">v2.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.8">v2.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v2.9">v2.9</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.1">v3.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.2">v3.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.3">v3.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.4">v3.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.5">v3.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.6">v3.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.7">v3.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.8">v3.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v3.9">v3.9</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.1">v4.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.2">v4.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.3">v4.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.4">v4.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.5">v4.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.6">v4.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.7">v4.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.8">v4.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="v4.9">v4.9</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.1">5.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.2">5.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.3">5.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.4">5.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.5">5.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.6">5.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.7">5.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.8">5.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="5.9">5.9</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.1">6.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.2">6.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.3">6.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.4">6.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.5">6.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.6">6.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.7">6.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.8">6.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="6.9">6.9</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.1">7.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.2">7.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.3">7.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.4">7.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.5">7.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.6">7.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.7">7.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.8">7.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="7.9">7.9</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.1">8.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.2">8.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.3">8.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.4">8.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.5">8.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.6">8.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.7">8.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.8">8.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="8.9">8.9</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.1">9.1</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.2">9.2</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.3">9.3</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.4">9.4</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.5">9.5</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.6">9.6</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.7">9.7</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.8">9.8</Variable>
+  <Variable
+    Name="Document Version"
+    Comment=""
+    EvaluatedDefinition="9.9">9.9</Variable>
+  <Variable
+    Name="Document Type"
+    Comment=""
+    EvaluatedDefinition="Document Type">Document Type</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="​​​SITA Ba​g Journey">​​​SITA Ba​g Journey</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Bag Trust">SITA Bag Trust</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA NetScan">SITA NetScan</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Bag Trac">SITA Bag Trac</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Bag Message">SITA Bag Message</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Bag Connect">SITA Bag Connect</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA WorldTracer Bag Delivery Service">SITA WorldTracer Bag Delivery Service</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA WorldTracer Lost and Found Property">SITA WorldTracer Lost and Found Property</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA WorldTracer Self Service">SITA WorldTracer Self Service</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA AirportCentral Fast Start">SITA AirportCentral Fast Start</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA AirportIntegrator">SITA AirportIntegrator</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Information Display System">SITA Information Display System</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Public Service System">SITA Public Service System</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Airport Device Management">SITA Airport Device Management</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Flex on Premise">SITA Flex on Premise</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Flex Hybrid">SITA Flex Hybrid</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Kiosks">SITA Kiosks</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="​​​​​SITA Passenger Flow Management">​​​​​SITA Passenger Flow Management</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="​​​​​​​​​​SITA Local DCS​">​​​​​​​​​​SITA Local DCS​</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="​​​​​SITA Smar​t Path Biometrics">​​​​​SITA Smar​t Path Biometrics</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Bag Manager V7 System Configuration">SITA Bag Manager V7 System Configuration</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="SITA Bag Manager Lite">SITA Bag Manager Lite</Variable>
+</CatapultVariableSet>

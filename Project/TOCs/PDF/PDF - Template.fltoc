@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/PDF Topics - Template/Cover_Document Type.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="title"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"
+    AutoEndOnLeftPage="disabled"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"
+    PageType="continue"
+    Link="/Content/PDF Topics - Template/Product-X - Print Demo/Document Type/Revision History.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/PDF Topics - Template/Proxies/TOC_Proxy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="continue"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="Style Examples"
+    BreakType="chapter"
+    PageType="continue"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"
+    Link="/Content/Template Topics (Reference-Only)/01_Style Examples/Style Examples.htm"
+    PageNumber="1">
+    <TocEntry
+      Title="Heading 1"
+      Link="/Content/Template Topics (Reference-Only)/A_Getting Started/Basic Steps.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Introduction"
+    BreakType="chapter"
+    PageType="continue"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"
+    Link="/Content/Template Topics (Reference-Only)/A_Getting Started/Getting Started.htm"
+    PageNumber="1">
+    <TocEntry
+      Title="Whats New"
+      Link="/Content/Template Topics (Reference-Only)/A_Getting Started/Whats New.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+    <TocEntry
+      Title="Release Notes"
+      Link="/Content/Template Topics (Reference-Only)/A_Getting Started/Release Notes.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+    <TocEntry
+      Title="Basic Steps"
+      Link="/Content/Template Topics (Reference-Only)/A_Getting Started/Basic Steps.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Feature Topics"
+    BreakType="chapter"
+    PageType="continue"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"
+    Link="/Content/Template Topics (Reference-Only)/B_Feature Topics/Features.htm"
+    PageNumber="1">
+    <TocEntry
+      Title="Feature1"
+      Link="/Content/Template Topics (Reference-Only)/B_Feature Topics/Feature1.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+    <TocEntry
+      Title="Feature2"
+      Link="/Content/Template Topics (Reference-Only)/B_Feature Topics/Feature2.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+    <TocEntry
+      Title="Feature3"
+      Link="/Content/Template Topics (Reference-Only)/B_Feature Topics/Feature3.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Procedure Topics"
+    BreakType="chapter"
+    PageType="continue"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"
+    Link="/Content/Template Topics (Reference-Only)/C_Procedure Topics/Procedures.htm">
+    <TocEntry
+      Title="Procedure1"
+      Link="/Content/Template Topics (Reference-Only)/C_Procedure Topics/Procedure1.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+    <TocEntry
+      Title="Procedure2"
+      Link="/Content/Template Topics (Reference-Only)/C_Procedure Topics/Procedure2.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+    <TocEntry
+      Title="Procedure3"
+      Link="/Content/Template Topics (Reference-Only)/C_Procedure Topics/Procedure3.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="More Information"
+    BreakType="chapter"
+    PageType="continue"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"
+    Link="/Content/Template Topics (Reference-Only)/D_More Information/Company Information.htm">
+    <TocEntry
+      Title="FAQs"
+      Link="/Content/Template Topics (Reference-Only)/D_More Information/FAQs.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+    <TocEntry
+      Title="PDF Downloads"
+      Link="/Content/Template Topics (Reference-Only)/D_More Information/PDF Downloads.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+    <TocEntry
+      Title="Tips"
+      Link="/Content/Template Topics (Reference-Only)/D_More Information/Tips.htm"
+      BreakType="pageLayout"
+      PageType="continue"
+      AutoEndOnLeftPage="disabled"
+      PageNumberReset="continue"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/PDF Topics - Template/End of Document.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="continue"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Page Layout - Template.flpgl" />
+</CatapultToc>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="PDF Only"
+    Comment="This is content only visible in PDF output and not HTML 5 Output" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="HTML5 Only"
+    Comment="This is content only visible in HTML5 output and not PDF Output"
+    OriginalName="Web Only" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Admin Client"
+    Comment="These topics are to be included in the Admin Table of Content."
+    OriginalName="Admin Client" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Operations Client"
+    Comment="These topics are to be included in the Operations Table of Content."
+    OriginalName="Operations Client" />
+  <ConditionTag
+    BackgroundColor="#f5f209"
+    Name="Content Client"
+    Comment="These topics are to be included in the Content Table of Content."
+    OriginalName="Content Client" />
+</CatapultConditionTagSet>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Zones Import"
+  Stylesheet="file:///C:/Users/Marie-Clare.Doyle/Flare Projects/Online Help Template/Content/Resources/Stylesheets/MainStyles.css"
+  CreateNewStylesheet="false"
+  InlineFormatting="Remove"
+  TableStyles="ExistingTableStyleSheet"
+  TableStyleSheet="file:///C:/Users/Marie-Clare.Doyle/Flare Projects/Online Help Template/Content/Resources/TableStyles/Main-Table.css"
+  PageBreaks="Ignore"
+  LastImport="2022-10-19T09:42:59.5998453+01:00">
+  <Files>
+    <Url
+      Source="../../../../Downloads/Zones.docx"
+      AbsoluteSource="file:///C:/Users/Marie-Clare.Doyle/Downloads/Zones.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/Main-Table.css"
+      TimeStamp="19/10/2022 09:42:35" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Zone.jpg"
+      TimeStamp="19/10/2022 09:42:35" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Zone.png"
+      TimeStamp="19/10/2022 09:42:35" />
+    <Url
+      Source="../../Content/Zones Import/Zone.htm"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Create Add a Zone.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Create Add a Zone_1.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Create Add a Zone_2.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Create Add a Zone_3.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Create Add a Zone_4.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Zones Import/Create Add a Zone.htm"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Delete a Zone.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Delete a Zone_1.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Delete a Zone_2.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Delete a Zone_3.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Delete a Zone_4.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Zones Import/Delete a Zone.htm"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Images/Zones/Edit a Zone.png"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Zones Import/Edit a Zone.htm"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../TOCs/Zones.fltoc"
+      TimeStamp="19/10/2022 09:42:36" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="19/10/2022 09:42:36" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1"
+      Style="Flare" />
+    <Map
+      From="List Paragraph"
+      To="p"
+      Style="Flare" />
+    <Map
+      From="Note"
+      To="div.Note"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+</MsWordImport>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <table style="width: 100%;">
+            <col style="width: 443px;" />
+            <col style="width: 1135px;" />
+            <tbody>
+                <tr>
+                    <td style="padding-bottom: 50px;">
+                        <img src="../../../Resources/Images/Assets/Logos/SITAlogo.png" style="width: 134px;height: 42px;" />
+                    </td>
+                    <td>
+                        <p class="header-footer" style="text-align: right;">
+							Copyright © SITA Information Networking Computing USA Inc <MadCap:variable name="Variables - Template.Original Year" /> - <MadCap:variable name="Variables - Template.Current Year" />. Confidential. All rights reserved. <span style="font-style: italic">The contents of this document are confidential and proprietary to SITA Information Networking Computing USA Inc.No part of this document or its contents may be reproduced, copied, transmitted or used without the consent of SITA.SITA reserves the right to change this document and its content at any time without notice. SITA shall not be held responsible for the direct or indirect use of the content of this document. </span></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

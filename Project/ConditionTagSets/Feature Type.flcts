@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#7fff00"
+    Name="New Feature"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Omit"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="FeatureToBeAddedLater"
+    Comment="" />
+</CatapultConditionTagSet>

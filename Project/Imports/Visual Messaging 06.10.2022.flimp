@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Zones and Messaging"
+  Stylesheet="file:///C:/Users/Marie-Clare.Doyle/Flare Projects/SITA Transit - Template Applied/Content/Resources/Stylesheets/MainStyles.css"
+  CreateNewStylesheet="false"
+  InlineFormatting="Remove"
+  UseHeaderRows="true"
+  TableStyles="ExistingTableStyleSheet"
+  TableStyleSheet="file:///C:/Users/Marie-Clare.Doyle/Flare Projects/SITA Transit - Template Applied/Content/Resources/TableStyles/Main-Table.css"
+  PageBreaks="Ignore"
+  PreserveMappedStyles="false"
+  LastImport="2022-10-06T15:42:42.6471508+01:00">
+  <Files>
+    <Url
+      Source="../../../../Downloads/Visual Messaging 06.10.2022.docx"
+      AbsoluteSource="file:///C:/Users/Marie-Clare.Doyle/Downloads/Visual Messaging 06.10.2022.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/Main-Table.css"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Zones and Messaging/Visual Messaging.htm"
+      TimeStamp="06/10/2022 15:41:11" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_1.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_2.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_3.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_4.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_5.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_6.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_7.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_8.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Create New Message_9.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Zones and Messaging/Create New Message.htm"
+      TimeStamp="06/10/2022 15:41:11" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Make a Message active.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Zones and Messaging/Make a Message active.htm"
+      TimeStamp="06/10/2022 15:41:11" />
+    <Url
+      Source="../../Content/Zones and Messaging/Create or Edit Message content.htm"
+      TimeStamp="06/10/2022 15:41:11" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Templates theme.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Zones and Messaging/Templates theme.htm"
+      TimeStamp="06/10/2022 15:41:11" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Changing the theme.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Resources/Images/Visual Messaging 06.10.2022/Changing the theme_1.png"
+      TimeStamp="06/10/2022 15:41:10" />
+    <Url
+      Source="../../Content/Zones and Messaging/Changing the theme.htm"
+      TimeStamp="06/10/2022 15:41:11" />
+    <Url
+      Source="../TOCs/Visual Messaging 06.10.2022.fltoc"
+      TimeStamp="06/10/2022 15:41:11" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="06/10/2022 15:41:11" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Comment Text"
+      To="p"
+      Style="Flare" />
+    <Map
+      From="Heading 1"
+      To="h1"
+      Style="Flare" />
+    <Map
+      From="Heading 2"
+      To="h2"
+      Style="Flare" />
+    <Map
+      From="List Paragraph"
+      To="p"
+      Style="Flare" />
+    <Map
+      From="Note"
+      To="div.note"
+      Style="Flare" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Strong"
+      To="strong"
+      Style="Flare" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+</MsWordImport>
